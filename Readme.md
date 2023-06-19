@@ -1,6 +1,6 @@
 ## Website template
 
-This project represent a simple website template
+This project represents a simple website template
 
 ### Content
 
